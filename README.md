@@ -1,4 +1,4 @@
-# MP3 Rosario Player
+# MP3 Player (Un fork de el proyecto original. pueden acceder a este aqui: https://github.com/Victor1890/Reproductor_M-sica)
 La habilidad de poder escuchar y descargar Música y Vídeos
 
 ***Este proyecto aún sigue en desarrollo***
